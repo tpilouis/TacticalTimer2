@@ -1,0 +1,27 @@
+# WiFi credentials — NEVER commit this file
+credentials.h
+
+# MP3 audio files — not included (copyright / binary files)
+# Users must provide their own, see README.md for details
+mp3/
+*.mp3
+
+# Arduino build artifacts
+build/
+*.bin
+*.elf
+*.map
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Doxygen output
+docs/html/
+docs/latex/
