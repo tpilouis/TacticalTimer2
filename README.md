@@ -2,6 +2,8 @@
 
 A professional shooting timer built on M5Stack Core2 (ESP32), featuring a real-time Web Dashboard for remote monitoring and control via Wi-Fi.
 
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/louischou)
+
 ![Platform](https://img.shields.io/badge/Platform-M5Stack%20Core2-blue)
 ![Framework](https://img.shields.io/badge/Framework-Arduino-teal)
 ![License](https://img.shields.io/badge/License-MIT-green)
